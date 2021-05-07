@@ -1,3 +1,3 @@
 # r-application
 
-Hier kann ich einen neuen ++Markdown++ Text erstellen 
+Hier kann ich einen neuen ++Markdown++ Text erstellen.
